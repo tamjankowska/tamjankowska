@@ -1,9 +1,13 @@
-### Hi there 👋
+### Greetings.
+
+I'm currently a student of the Master: Coding full stack bootcamp with Code Nation and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From dice games to fictional news headlines, have at it.
+
+⚡⚡⚡
+
 
 <!--
 **tamjankowska/tamjankowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
