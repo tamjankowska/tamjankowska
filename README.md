@@ -2,7 +2,9 @@
 
 I'm currently a student of the Master: Coding full stack bootcamp with Code Nation and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From dice games to fictional news headlines, have at it.
 
-⚡⚡⚡
+⚡ [Tweet me.](https://twitter.com/tinska)
+
+⚡ [LinkedIn me.](https://www.linkedin.com/in/tamjankowska/)
 
 
 <!--
