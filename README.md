@@ -1,5 +1,8 @@
 ### Greetings.
 
+![Header](https://github.com/tamjankowska/tamjankowska/blob/main/TJ.jpg)
+
+
 I'm currently a student of the Master: Coding full stack bootcamp with Code Nation and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From dice games to fictional news headlines, have at it.
 
 ⚡ [Tweet me.](https://twitter.com/tinska)
