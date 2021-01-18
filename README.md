@@ -3,12 +3,11 @@
 ![Header](https://github.com/tamjankowska/tamjankowska/blob/main/TJ.jpg)
 
 
-I'm currently a student of the Master: Coding full stack bootcamp with Code Nation and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From dice games to fictional news headlines, have at it.
+I'm an Innovation Developer with Code Nation and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From quiz apps to bestiaries, have at it.
 
 ⚡ [Tweet me.](https://twitter.com/tinska)
 
 ⚡ [LinkedIn me.](https://www.linkedin.com/in/tamjankowska/)
-
 
 <!--
 **tamjankowska/tamjankowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
