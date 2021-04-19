@@ -1,7 +1,5 @@
 ### Greetings.
 
-![Header](https://github.com/tamjankowska/tamjankowska/blob/main/TJ.jpg)
-
 
 I'm an Innovation Developer with Code Nation and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From quiz apps to bestiaries, have at it.
 
