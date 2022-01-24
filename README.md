@@ -1,7 +1,7 @@
 ### Greetings.
 
 
-I'm a developer with Jisc and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From quiz apps to bestiaries, have at it.
+I'm a developer with Ember and I'm gonna be showing all of my stuff (good and less good) right here for your perusal. From quiz apps to bestiaries, have at it.
 
 <a href="https://github.com/tamjankowska/tamjankowska">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamjankowska&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
