@@ -1,8 +1,6 @@
 ### Greetings.
 
 
-✨ Sparkles ✨ gal @ Ember currently mostly working with TypeScript and React.
-
 <!--
 **tamjankowska/tamjankowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
